@@ -391,6 +391,18 @@ footer p, footer .fa-copyright
     background-color:$pal;
 
 }
+.social .box:hover
+{
+    background-color:#fff;
+    color:$pal;
+    width:50px;
+    height:40px;
+}
+
+.social .box a .fa:hover
+{
+    color:$pal;
+}
 .box a .fa
 {
     color:white;

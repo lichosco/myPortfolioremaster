@@ -344,6 +344,15 @@ footer p, footer .fa-copyright {
   margin: 0 5px;
   background-color: #b4785d; }
 
+.social .box:hover {
+  background-color: #fff;
+  color: #b4785d;
+  width: 50px;
+  height: 40px; }
+
+.social .box a .fa:hover {
+  color: #b4785d; }
+
 .box a .fa {
   color: white;
   font-size: 25px; }
